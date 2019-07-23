@@ -5,8 +5,12 @@
 
 Do you want to stay connected to your love ones???
 
-Have a look at MessageMe app build java support 
+Have a look at MessageMe app build java support
+
+
 This is my first work on android app development.
+
+
 It is a simple text messaging app to send sms.  One EditText hold the mobile no. and other holds the message. If any of the EditText remain blank then then `Send` button will remain `disabled` (will not work). If both the EditText are been filled then `Send` button will be `enabled` now due to `TextChangeListener`. Exit button is used for closing the app. Send and Exit button works due to `OnClickListener` To use any services like calling or sending message etc we need to provide permission to our app. So we need to modify our `Manifest File` and write `<uses-permission android:name="android.permission.SEND_SMS" />`
 ## Features
 
