@@ -38,14 +38,15 @@ To directly download the apk [Click Here]( https://github.com/vishalvs9728/Messa
  # Screenshots:
 
 <div style="display:flex;">
-<img alt="App image" src="Screenshots/Screenshot_20190723-201747.png" width="50%" hspace="10">
-<img alt="App image" src="Screenshots/Screenshot_20190723-201755.png" width="50%" hspace="10">
+<img alt="App image" src="Screenshots/Screenshot_20190723-201747.png" width="40%" hspace="10">
+<img alt="App image" src="Screenshots/Screenshot_20190723-201755.png" width="40%" hspace="10">
 </div>
 <br/>
 <br/>
 <div style="display:flex;">
-<img alt="App image" src="Screenshots/Screenshot_20190723-201805.png" width="50%" hspace="10">
-<img alt="App image" src="Screenshots/Screenshot_20190723-214744.png" width="50%" hspace="10">
+        <img alt="App image" src="Screenshots/Screenshot_20190723-214744.png" width="40%" hspace="10">
+<img alt="App image" src="Screenshots/Screenshot_20190723-201805.png" width="40%" hspace="10">
+
 </div>
 
 
