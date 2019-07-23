@@ -6,7 +6,8 @@
 Do you want to stay connected to your love ones???
 
 Have a look at MessageMe app build java support 
-It is a simple text messaging app to send sms. One EditText hold the mobile no. and other holds the message. If any of the EditText remain blank then then `Send` button will remain `disabled` (will not work). If both the EditText are been filled then `Send` button will be `enabled` now due to `TextChangeListener`. Exit button is used for closing the app. Send and Exit button works due to `OnClickListener` To use any services like calling or sending message etc we need to provide permission to our app. So we need to modify our `Manifest File` and write `<uses-permission android:name="android.permission.SEND_SMS" />`
+This is my first work on android app development.
+It is a simple text messaging app to send sms.  One EditText hold the mobile no. and other holds the message. If any of the EditText remain blank then then `Send` button will remain `disabled` (will not work). If both the EditText are been filled then `Send` button will be `enabled` now due to `TextChangeListener`. Exit button is used for closing the app. Send and Exit button works due to `OnClickListener` To use any services like calling or sending message etc we need to provide permission to our app. So we need to modify our `Manifest File` and write `<uses-permission android:name="android.permission.SEND_SMS" />`
 ## Features
 
 * OnClickListener
@@ -35,14 +36,14 @@ To directly download the apk [Click Here]( https://github.com/vishalvs9728/Messa
  # Screenshots:
 
 <div style="display:flex;">
-<img alt="App image" src="Screenshots/Screenshot_20190723-201747.png" width="30%" hspace="30">
-<img alt="App image" src="Screenshots/Screenshot_20190723-201755.png" width="30%" hspace="30">
+<img alt="App image" src="Screenshots/Screenshot_20190723-201747.png" width="50%" hspace="40">
+<img alt="App image" src="Screenshots/Screenshot_20190723-201755.png" width="50%" hspace="40">
 </div>
 <br/>
 <br/>
 <div style="display:flex;">
-<img alt="App image" src="Screenshots/Screenshot_20190723-201805.png" width="30%" hspace="30">
-<img alt="App image" src="Screenshots/Screenshot_20190723-214744.png" width="30%" hspace="30">
+<img alt="App image" src="Screenshots/Screenshot_20190723-201805.png" width="50%" hspace="$0">
+<img alt="App image" src="Screenshots/Screenshot_20190723-214744.png" width="50%" hspace="40">
 </div>
 
 
